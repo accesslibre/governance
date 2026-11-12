@@ -6,6 +6,7 @@ including earlier work as the International Accessibility Task Force
 
 ## Current policies
 
+- [Proposal review, outcomes and project commitments](decisions/2026-004-proposal-review-and-commitments.md).
 - [Project stewardship, maintainer handovers and the transition from IATF](decisions/2026-003-project-stewardship-and-iatf-transition.md).
 - [Repository names](decisions/2026-002-libreaccessibility-repository-names.md).
 
