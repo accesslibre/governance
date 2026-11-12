@@ -1,4 +1,8 @@
-# iatf-governance
+# governance
+
+Current repository naming follows
+[2026-002: Repository names for LibreAccessibility](decisions/2026-002-libreaccessibility-repository-names.md).
+Earlier IATF records are preserved below.
 
 Durable public records for IATF.
 
@@ -24,10 +28,10 @@ in that area.
 ## What does **not** live here
 
 - **Raw intake from the website form.** Those go to the private
-  `iatf-intake` repository. Records here are summaries that have been
+  `intake` repository. Records here are summaries that have been
   filtered, redacted, and approved for publication.
 - **Project source code.** Each accepted project lives in its own
-  `iatf-<project-slug>` repository.
+  descriptively named repository.
 - **Live discussion.** Conversations happen on Discord and in repo
   issues. Decisions that affect a project or governance are summarized
   into this repository when they are made.
@@ -54,8 +58,8 @@ organization-level access. If you have a correction or want to flag
 something missing, open an issue or email <contact@iatf.cc>.
 
 See the org-wide
-[CONTRIBUTING](https://github.com/international-accessibility-task-force/.github/blob/main/CONTRIBUTING.md)
-and [Code of Conduct](https://github.com/international-accessibility-task-force/.github/blob/main/CODE_OF_CONDUCT.md).
+[CONTRIBUTING](https://github.com/accesslibre/.github/blob/main/CONTRIBUTING.md)
+and [Code of Conduct](https://github.com/accesslibre/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contact
 

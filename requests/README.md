@@ -3,12 +3,12 @@
 Redacted, published summaries of accessibility requests that came into
 IATF and were reviewed.
 
-## Relationship to `iatf-intake`
+## Relationship to `intake`
 
-- **`iatf-intake` (private):** raw intake from the website form,
+- **`intake` (private):** raw intake from the website form,
   email, or Discord. May contain personal contact details, sensitive
   context, spam, or harmful content. Only IATF maintainers can read it.
-- **`iatf-governance/requests/` (public, this folder):** filtered and
+- **`governance/requests/` (public, this folder):** filtered and
   redacted summaries of requests that have been accepted, declined,
   deferred, or reshaped. These are what the public registry and
   transparency page can link to.
@@ -33,7 +33,8 @@ out at the private intake stage and are not summarized here.
 `YYYY-NNN-<slug>.md`, where `NNN` is a zero-padded sequence number for
 that year (e.g. `2026-001-plain-language-reader.md`). Numbering belongs
 in governance records, not in repository names — accepted projects use
-the descriptive form `iatf-<project-slug>`.
+descriptive names without an organization prefix, under
+[the current naming policy](../decisions/2026-002-libreaccessibility-repository-names.md).
 
 ## Minimal entry shape
 
@@ -41,7 +42,7 @@ the descriptive form `iatf-<project-slug>`.
 ---
 date: 2026-05-02
 status: accepted | declined | deferred | reshaped
-project: iatf-<project-slug>      # if accepted
+project: <project-slug>           # if accepted
 ---
 
 ## Need

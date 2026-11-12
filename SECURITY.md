@@ -20,4 +20,4 @@ from IATF-controlled surfaces. We cannot guarantee removal from
 third-party caches, forks, or screenshots.
 
 For all other security topics, see the org-wide
-[SECURITY.md](https://github.com/international-accessibility-task-force/.github/blob/main/SECURITY.md).
+[SECURITY.md](https://github.com/accesslibre/.github/blob/main/SECURITY.md).
