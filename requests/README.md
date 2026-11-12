@@ -1,23 +1,29 @@
 # Public request summaries
 
-Redacted, published summaries of accessibility requests that came into
-IATF and were reviewed.
+Rewritten summaries of reviewed LibreAccessibility proposals, alongside
+earlier IATF records. New publications follow the
+[privacy and retention policy](../decisions/2026-006-proposal-privacy-and-retention.md).
 
 ## Relationship to `intake`
 
 - **`intake` (private):** raw intake from the website form,
   email, or Discord. May contain personal contact details, sensitive
-  context, spam, or harmful content. Only IATF maintainers can read it.
+  context, spam, or harmful content. Only authorized reviewers can read it.
 - **`governance/requests/` (public, this folder):** filtered and
   redacted summaries of requests that have been accepted, declined,
   deferred, or reshaped. These are what the public registry and
   transparency page can link to.
 
-A request is **never** published verbatim. Summaries remove personal
+A request is **never** published verbatim. Show the requester the exact
+summary and obtain affirmative permission before publication, including
+for accepted projects. No reply means no publication. Keep approval in
+private intake, not in this public folder. Summaries remove personal
 contact details, private addresses, and identifying information about
 individual users of assistive technologies before publication.
 
 ## What gets published
+
+With permission for the exact summary:
 
 - Accepted requests, once the project repository exists.
 - Declined or deferred requests, when there is public value in
@@ -51,10 +57,11 @@ Short, plain-language description of the accessibility need.
 
 ## Outcome
 
-What IATF decided and why.
+What LibreAccessibility decided and why.
 ```
 
 ## Editorial policy
 
-The full editorial policy is at <https://iatf.cc/governance/> under
-"Public request records".
+Use the current [privacy and retention policy](../decisions/2026-006-proposal-privacy-and-retention.md),
+including Discord decisions, indexing limits and removal requests.
+Do not store originals, contact details or evidence of permission here.

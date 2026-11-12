@@ -6,6 +6,7 @@ including earlier work as the International Accessibility Task Force
 
 ## Current policies
 
+- [Proposal privacy, publication permission and retention](decisions/2026-006-proposal-privacy-and-retention.md).
 - [Direct proposal intake and delivery receipts](decisions/2026-005-direct-proposal-intake.md).
 - [Proposal review, outcomes and project commitments](decisions/2026-004-proposal-review-and-commitments.md).
 - [Project stewardship, maintainer handovers and the transition from IATF](decisions/2026-003-project-stewardship-and-iatf-transition.md).
@@ -40,17 +41,20 @@ in that area.
 ## Editorial policy
 
 - Plain English source. Translations may be added later.
-- Entries are append-mostly. Corrections are made by adding a new entry
-  that supersedes the old one, not by silently rewriting history.
+- Policy decisions are append-mostly. Personal-data corrections and
+  removal follow the privacy policy; preserving history does not override
+  those responsibilities.
 - Personal contact details, private addresses, and identifying
   information about individual users of assistive technologies are
   removed before anything is published here.
+- Proposal summaries also require the requester's affirmative approval
+  of the exact text before publication.
 - Records are excluded from search engine indexing where technically
   practical.
 
-The full editorial policy is on
-[`/governance/`](https://iatf.cc/governance/) under "Public request
-records".
+The current [privacy and retention policy](decisions/2026-006-proposal-privacy-and-retention.md)
+supersedes older IATF publication and retention wording, including the
+historical website's "Public request records" section.
 
 ## Contributing
 
