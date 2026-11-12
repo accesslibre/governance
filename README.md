@@ -1,24 +1,23 @@
 # governance
 
-Current repository naming follows
-[2026-002: Repository names for LibreAccessibility](decisions/2026-002-libreaccessibility-repository-names.md).
-Earlier IATF records are preserved below.
+Public operating policies and decision records for LibreAccessibility,
+including earlier work as the International Accessibility Task Force
+(IATF).
 
-Durable public records for IATF.
+## Current policies
 
-This repository is the long-lived public record for the
-[International Accessibility Task Force](https://iatf.cc). It holds the
-content that the website's
-[`/governance/`](https://iatf.cc/governance/) and
-[`/transparency/`](https://iatf.cc/transparency/) pages summarize, and that
-project repositories link back to.
+- [Project stewardship, maintainer handovers and the transition from IATF](decisions/2026-003-project-stewardship-and-iatf-transition.md).
+- [Repository names](decisions/2026-002-libreaccessibility-repository-names.md).
+
+The former IATF community chair and annual election model is historical.
+Current project responsibilities follow the stewardship policy above.
 
 ## What lives here
 
 | Folder | Contents |
 | ------ | -------- |
-| `chair/` | Chair role records: terms, election announcements, results. |
-| `decisions/` | Acceptance, archival, and reassignment decisions for IATF projects. |
+| `chair/` | Historical IATF chair rules and records. |
+| `decisions/` | Operating policies and project decisions, with earlier IATF records. |
 | `costs/` | Operating cost records, by year. |
 | `requests/` | Published, redacted summaries of accessibility requests. |
 
@@ -53,9 +52,9 @@ records".
 
 ## Contributing
 
-Most entries are added by the IATF chair or a maintainer with
-organization-level access. If you have a correction or want to flag
-something missing, open an issue or email <contact@iatf.cc>.
+Entries are added by a director or a maintainer with the appropriate
+repository access. If you have a correction or want to flag something
+missing, open an issue or email <contact@libreaccessibility.org>.
 
 See the org-wide
 [CONTRIBUTING](https://github.com/accesslibre/.github/blob/main/CONTRIBUTING.md)
@@ -63,8 +62,8 @@ and [Code of Conduct](https://github.com/accesslibre/.github/blob/main/CODE_OF_C
 
 ## Contact
 
-- Email: <contact@iatf.cc>
-- Discord: <https://iatf.cc/discord>
+- Email: <contact@libreaccessibility.org>
+- Discord: <https://discord.gg/7DzHgJHbGx>
 
 ## License
 
